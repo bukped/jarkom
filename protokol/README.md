@@ -1,6 +1,11 @@
 # Protokol
 
+
+di layer aplikasi
+
 ## HTTP
+
+<img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/128f6bec-b5d0-42c4-ba22-790da94bb446" />
 
 Contoh protokol http
 dia melayani di port 80, apabila akses browser:
@@ -23,3 +28,33 @@ Bedanya :
 2. PATCH : Update data sebagian
 3. DELETE : Menghapus satu data/keseluruhan
 
+## SMTP / IMAP
+
+Untuk pengiriman e-mail
+
+## SSH / SFTP
+
+Remote CLI dari UNIX Based Operating Sistem
+
+## OpenVPN / PPTP
+
+Untuk membuat jaringan Privat(Jaringan di dalam jaringan)
+
+## FTP
+
+Untuk penyimpanan file
+
+
+Untuk Layer Transport
+
+## TCP
+
+Dia sifatnya state oriented, alias tidak ada boleh paket yang di drop/ilang
+
+File transfer, biar file tidak korup ketika di kirim via Internet
+
+## UDP
+
+Dia sifatnya stateless, boleh ada paket yang ilang
+
+Contoh : nonton youtube
