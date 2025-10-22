@@ -1,6 +1,9 @@
 # jarkom
 Jaringan Komputer
 
+1. Intro
+2. Protokol
+
 ## Tugas Youtube
 
 | No. | NIM | Nama | 1. Intro | 2. Protokol |
